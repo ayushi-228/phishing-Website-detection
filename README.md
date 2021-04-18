@@ -8,3 +8,5 @@ Web phishing  is one of many security threats to web services on the Internet
 * logistic regression
 * decision tree
 * random forrest
+
+The data for this excercise is taken from UCI website (https://archive.ics.uci.edu/ml/datasets/phishing+websites.).
